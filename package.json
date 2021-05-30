@@ -69,7 +69,7 @@
     "prism-media": "^0.0.3",
     "snekfetch": "^3.6.4",
     "tweetnacl": "^1.0.0",
-    "ws": "^6.0.0"
+    "ws": "^7.4.6"
   },
   "deprecated": false,
   "description": "A powerful library for interacting with the Discord API",
